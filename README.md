@@ -66,7 +66,7 @@
       <p>In this virtual lab, you will perform a dissection of an earthworm. You'll learn about its internal organs and functions. Follow each step carefully and complete the tasks.</p>
     </section>
 
-  <section>
+    <section>
       <h2>📋 Lab Protocol</h2>
       <ol>
         <li>Watch the dissection video below.</li>
@@ -76,14 +76,14 @@
       </ol>
     </section>
 
-  <section>
+    <section>
       <h2>🎥 Dissection Video</h2>
       <iframe src="https://www.youtube.com/embed/aKzYbdxY7AE" allowfullscreen></iframe>
     </section>
 
-  <section>
+    <section>
       <h2>🧠 Explore Internal Structures</h2>
-      <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fbyjus.com%2Fbiology%2Fearthworm-morphology-anatomy%2F&psig=AOvVaw3K46mVh6dc_xk46jbDRGSg&ust=1743797575980000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCIiOz6rWvIwDFQAAAAAdAAAAABAE
+      <img src="https://upload.wikimedia.org/wikipedia/commons/1/13/Earthworm_internal_anatomy_labelled.png" alt="Earthworm anatomy diagram" style="width: 100%; height: auto; border: 1px solid #ccc; border-radius: 5px;">
       <ul>
         <li><strong>Pharynx:</strong> Pulls food from the mouth</li>
         <li><strong>Esophagus:</strong> Moves food to the crop</li>
@@ -94,18 +94,18 @@
       </ul>
     </section>
 
-  <section>
+    <section>
       <h2>📝 Student Notes</h2>
       <p>Write your observations below:</p>
       <textarea rows="5" placeholder="What did you observe during the dissection?"></textarea>
     </section>
 
-  <section>
+    <section>
       <h2>📄 Download Worksheet</h2>
       <p><a href="https://www.teachengineering.org/content/cub_/lessons/cub_biotech/cub_biotech_lesson01_activity2_dissectionworksheet.pdf" target="_blank">Click here to download the worksheet (PDF)</a></p>
     </section>
 
-  <section>
+    <section>
       <h2>✅ Quiz</h2>
       <p><strong>Which organ in the earthworm grinds food?</strong></p>
       <ul>
@@ -115,13 +115,14 @@
       </ul>
     </section>
 
-  <section>
+    <section>
       <h2>📌 Summary</h2>
       <textarea rows="4" placeholder="Summarize what you learned from the earthworm dissection."></textarea>
     </section>
   </div>
 </body>
 </html>
+
 
 
 
