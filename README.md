@@ -1,5 +1,3 @@
-# Earthworm
-Biology Online Lab
 import { useState } from 'react';
 import { Button } from "@/components/ui/button"
 import { Card, CardContent } from "@/components/ui/card"
@@ -21,7 +19,7 @@ export default function InvertebrateLab() {
     <div className="p-6 space-y-6">
       <h1 className="text-3xl font-bold">Virtual Invertebrate Lab: Earthworm</h1>
 
-      {/* Context Section */}
+  {/* Context Section */}
       <Card>
         <CardContent className="p-4">
           <h2 className="text-xl font-semibold">Context</h2>
@@ -32,7 +30,7 @@ export default function InvertebrateLab() {
         </CardContent>
       </Card>
 
-      {/* Protocol Section */}
+  {/* Protocol Section */}
       <Card>
         <CardContent className="p-4">
           <h2 className="text-xl font-semibold">Protocol</h2>
@@ -46,7 +44,7 @@ export default function InvertebrateLab() {
         </CardContent>
       </Card>
 
-      {/* Dissection Area */}
+  {/* Dissection Area */}
       <Card>
         <CardContent className="p-4">
           <h2 className="text-xl font-semibold">Dissection Simulation</h2>
@@ -68,7 +66,7 @@ export default function InvertebrateLab() {
         </CardContent>
       </Card>
 
-      {/* Notes & Worksheet */}
+  {/* Notes & Worksheet */}
       <Card>
         <CardContent className="p-4">
           <h2 className="text-xl font-semibold">Student Notes</h2>
@@ -77,7 +75,7 @@ export default function InvertebrateLab() {
         </CardContent>
       </Card>
 
-      {/* Result Section */}
+   {/* Result Section */}
       <Card>
         <CardContent className="p-4">
           <h2 className="text-xl font-semibold">Results</h2>
@@ -86,7 +84,7 @@ export default function InvertebrateLab() {
         </CardContent>
       </Card>
 
-      {/* Test Section */}
+   {/* Test Section */}
       <Card>
         <CardContent className="p-4">
           <h2 className="text-xl font-semibold">Lab Quiz</h2>
@@ -99,3 +97,4 @@ export default function InvertebrateLab() {
     </div>
   );
 }
+
