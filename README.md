@@ -83,7 +83,7 @@
 
   <section>
       <h2>🧠 Explore Internal Structures</h2>
-      <img src="https://upload.wikimedia.org/wikipedia/commons/e/ea/Earthworm_dissection_diagram.svg" alt="Earthworm diagram" style="width: 100%; height: auto; border: 1px solid #ccc; border-radius: 5px;">
+      <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fbyjus.com%2Fbiology%2Fearthworm-morphology-anatomy%2F&psig=AOvVaw3K46mVh6dc_xk46jbDRGSg&ust=1743797575980000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCIiOz6rWvIwDFQAAAAAdAAAAABAE
       <ul>
         <li><strong>Pharynx:</strong> Pulls food from the mouth</li>
         <li><strong>Esophagus:</strong> Moves food to the crop</li>
